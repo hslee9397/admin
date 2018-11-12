@@ -1,0 +1,2 @@
+# admin
+cookie name admin
